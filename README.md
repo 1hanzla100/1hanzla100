@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi all, I'm Hanzla</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Djanago / Flask and some other cool libraries and frameworks.</h3>
+<h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Djanago / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat" alt="1hanzla100" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https;//hanzla.ga](https;//hanzla.ga)
 
-- 💬 Ask me about **Django, Flask, Reactjs**
+- 💬 Ask me about **Django, Flask, Reactjs, NodeJS**
 
 - 📫 How to reach me **hanzla.tauqeer123@gmail.com**
 
