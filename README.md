@@ -1,5 +1,18 @@
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQl-informational?style=flat&logo=PostgreSQl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
-<h1 align="center">Hi all, I'm Hanzla</h1>
+
 <h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Djanago / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat" alt="1hanzla100" /> </p>
@@ -14,7 +27,7 @@
 
 - 📫 How to reach me **hanzla.tauqeer123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/152cxS0yZli3kr6r16I94tvRjbQjMeThz/view](https://drive.google.com/file/d/152cxS0yZli3kr6r16I94tvRjbQjMeThz/view)
+- 📄 Know about my experiences [https://cv.hanzla.ga](https://cv.hanzla.ga)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
