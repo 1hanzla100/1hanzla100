@@ -21,20 +21,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1hanzla100" alt="1hanzla100" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Wordpress**
 
-- 👨‍💻 All of my projects are available at [https;//hanzla.ga](https;//hanzla.ga)
+- 👨‍💻 All of my projects are available at [https;//hanzla.now.sh](https://hanzla.now.sh)
 
-- 💬 Ask me about **Django, Flask, Reactjs, NodeJS**
+- 💬 Ask me about **Django, Flutter, Flask, Reactjs, NodeJS**
 
 - 📫 How to reach me **hanzla.tauqeer123@gmail.com**
 
-- 📄 Know about my experiences [https://cv.hanzla.ga](https://cv.hanzla.ga)
+- 📄 Know about my experiences [https://hanzla-cv.now.sh](https://hanzla-cv.now.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/1hanzla100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="1hanzla100" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/1hanzla100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" /></a>
 <a href="https://web.facebook.com/hanzla.tauqeer.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hanzla tauqeer" height="30" width="40" /></a>
 <a href="https://instagram.com/1hanzla100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="1hanzla100" height="30" width="40" /></a>
 </p>
