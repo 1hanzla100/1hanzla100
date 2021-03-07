@@ -25,13 +25,13 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https;//hanzla.now.sh](https://hanzla.now.sh)
+- 👨‍💻 All of my projects are available at [https;//hanzla.netlify.app](https://hanzla.netlify.app)
 
 - 💬 Ask me about **Django, Flutter, Flask, Reactjs, NodeJS**
 
 - 📫 How to reach me **hanzla.tauqeer123@gmail.com**
 
-- 📄 Know about my experiences [https://hanzla-cv.now.sh](https://hanzla-cv.now.sh)
+- 📄 Know about my experiences [https://hanzla-cv.netlify.app](https://hanzla-cv.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
