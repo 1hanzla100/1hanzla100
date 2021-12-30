@@ -17,8 +17,6 @@
 
 <h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Djanago / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.</h3>
 
-<a href="https://www.buymeacoffee.com/1hanzla100" target="_blank"><img width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat" alt="1hanzla100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1hanzla100" alt="1hanzla100" /></a> </p>
