@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https;//hanzla.netlify.app](https://hanzla.netlify.app)
 
-- 💬 Ask me about **Django, Flutter, Flask, Reactjs, NodeJS**
+- 💬 Ask me about **Python, Django, Reactjs, Blockchain**
 
 - 📫 How to reach me **hanzla.tauqeer123@gmail.com**
 
