@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Django, Reactjs, Blockchain**
 
-- 📫 How to reach me **hanzla.tauqeer123@gmail.com**
+- 📫 How to reach me **hanzla.tauqeer123@gmail.com** or **+923114018877**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/1hanzla100/](https://www.linkedin.com/in/1hanzla100/)
 
