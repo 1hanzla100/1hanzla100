@@ -1,25 +1,59 @@
 <h1 align="center">Hi all, I'm Hanzla</h1>
 
-<h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.</h3>
+<h3 align="center">Full Stack Django, React.js Developer & Blockchain Developer from Lahore, Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat" alt="1hanzla100" /> </p>
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat" alt="1hanzla100" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/1hanzla100?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/1hanzla100?style=social">
+</div>
 
-- 👨‍💻 All of my projects are available at [https;//hanzla.netlify.app](https://hanzla.netlify.app)
+<h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
+- 💻 I am currently working as a Freelance Full Stack Developer.
+- 👨‍💻 All of my projects are available at [1hanzla100.github.io](https://1hanzla100.github.io/)
 - 💬 Ask me about **Python, Django, Reactjs, Blockchain**
-
-- 📫 How to reach me **hanzla.tauqeer123@gmail.com** or **+923114018877**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/1hanzla100/](https://www.linkedin.com/in/1hanzla100/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/1hanzla100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" /></a>
-<a href="https://web.facebook.com/hanzla.tauqeer.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hanzla tauqeer" height="30" width="40" /></a>
+<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
+
+<div align="center">
+      <a href="https://www.linkedin.com/in/1hanzla100/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://github.com/1hanzla100/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="mailto:hanzla.tauqeer123@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+      <a href="https://www.instagram.com/1hanzla100/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      </a>
+</div>
+
+<h2 align="center">Tools and Technologies 🛠</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+<br>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hanzla100&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div>
+
+<!-- Github Stats Section -->
+<h2 align="center">Github Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/1hanzla100/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=1hanzla100&theme=react&border=61dafb&hide_border=true" alt="1hanzla100" />
+    </a>
+    <a href="https://github.com/1hanzla100/github-readme-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hanzla100&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&locale=en" alt="1hanzla100" /></p>
-
