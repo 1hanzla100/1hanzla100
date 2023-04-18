@@ -49,11 +49,7 @@
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/1hanzla100/github-readme-streak-stats" title="Go to Source">
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=1hanzla100&theme=react&border=61dafb&hide_border=true" alt="1hanzla100" />
-    </a>
-    <a href="https://github.com/1hanzla100/github-readme-stats" title="Go to Source">
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
 </p>
