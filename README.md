@@ -56,10 +56,3 @@
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
-<h2 align="center">Support my work</h2>
-<p align=center>
-  ⭐️ If you find any of my projects useful or interesting, consider giving them a star! Your support means a lot to me. ☕️ And if you'd like to support my work further, you can buy me a coffee to fuel my pursuit of new technologies.
-</p>
-<div align=center>
-  <a href="https://www.buymeacoffee.com/1hanzla100"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1hanzla100&button_colour=FFDD00&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
- </div>
